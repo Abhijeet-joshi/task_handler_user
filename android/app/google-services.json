@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "894094696657",
+    "project_id": "task-manager-84abc",
+    "storage_bucket": "task-manager-84abc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894094696657:android:b996b9bf1d47bb4137e5f0",
+        "android_client_info": {
+          "package_name": "com.abhidroid.flutterdev.task_manager"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvVNpB78JPxWT10NtVZUi1rAFpJAH2Kps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894094696657:android:7077b7bb2f1224b737e5f0",
+        "android_client_info": {
+          "package_name": "com.abhidroid.flutterdev.task_report"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvVNpB78JPxWT10NtVZUi1rAFpJAH2Kps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
